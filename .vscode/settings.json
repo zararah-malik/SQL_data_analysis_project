@@ -5,8 +5,8 @@
             "server": "localhost",
             "port": 5432,
             "driver": "PostgreSQL",
-            "name": "sql_practice",
-            "database": "sql_practice",
+            "name": "postgres",
+            "database": "postgres",
             "username": "postgres"
         }
     ]
